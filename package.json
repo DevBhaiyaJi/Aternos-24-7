@@ -1,0 +1,12 @@
+{
+  "name": "ramfal-bot",
+  "version": "1.0.0",
+  "description": "Minecraft 1.12.2 bot Ramfal with auto-reconnect and AuthMe support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.0.0"
+  }
+}
